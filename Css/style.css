@@ -1,0 +1,97 @@
+/****************** body bg ***********************************/
+
+
+
+
+
+
+
+
+
+
+
+/*************** all heading parts ***********************************/
+
+h1{
+  text-align: center;
+}
+
+.head{
+  font-family: 'Azeret Mono', monospace;
+  
+
+}
+ 
+.carousel-caption{
+  font-family: 'Azeret Mono', monospace;
+ 
+
+
+}
+
+.featurette-heading{
+  text-align: left;
+}
+
+.head2{
+  text-align: center;
+  font-family: 'Azeret Mono', monospace;
+    position:absolute;
+    right: 0;
+    left: 0;
+    top: 300px;
+    bottom: 0;
+    background: none;
+    color: white;
+    font-size: 400%;
+}
+
+
+/****************** paragraph p tag adjustment*************************/
+
+
+
+.lead{
+  font-weight: bold;
+  
+}
+
+/************** crousal background image adjusting part************************/
+.d-block{
+max-width:100%;
+width: auto;
+height: auto;
+
+}
+
+/************** horizontal lines*************************************/
+.horizontal-rule {
+  border-top: 3px solid rgb(88, 88, 88);
+  width: 5%;
+  margin: 10px auto;
+}
+
+/******************* footer***********************************/
+.footer{
+  background-color: black;
+  color: white;
+ 
+  font-family: 'Azeret Mono', monospace;
+
+}
+.list-unstyled{
+  color: white;
+}
+
+/**** anchor tag******/
+.text {
+  color: #faf8fa;
+  text-decoration: none;
+  background-color: transparent;
+  
+}
+
+.text:hover{
+  color: white;
+  
+}
