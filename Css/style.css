@@ -1,5 +1,26 @@
 /****************** body bg ***********************************/
+.b1{
+  background-image: url("cool.png");
+}
 
+
+.b2{
+  background-image: url("bg2.png");
+}
+
+.b3{
+  background-image: url("cool1.png");
+}
+.b4{
+
+ background-image: url("cool2.png");
+}
+
+/********************************* nav bg img**************************/
+
+.navbar{
+  background-image: url("nav.png");
+}
 
 
 
@@ -18,13 +39,13 @@ h1{
 
 .head{
   font-family: 'Azeret Mono', monospace;
-  
+
 
 }
- 
+
 .carousel-caption{
   font-family: 'Azeret Mono', monospace;
- 
+
 
 
 }
@@ -53,7 +74,7 @@ h1{
 
 .lead{
   font-weight: bold;
-  
+
 }
 
 /************** crousal background image adjusting part************************/
@@ -71,11 +92,23 @@ height: auto;
   margin: 10px auto;
 }
 
+
+
+
+
+
+
+/***************** product image set**********************/
+.bd-placeholder{
+  height: auto;
+  width: auto;
+}
+
 /******************* footer***********************************/
 .footer{
   background-color: black;
   color: white;
- 
+
   font-family: 'Azeret Mono', monospace;
 
 }
@@ -88,10 +121,10 @@ height: auto;
   color: #faf8fa;
   text-decoration: none;
   background-color: transparent;
-  
+
 }
 
 .text:hover{
   color: white;
-  
+
 }
