@@ -128,3 +128,8 @@ height: auto;
   color: white;
 
 }
+
+
+.album{
+  background-image: url("bg.jpg");
+}
